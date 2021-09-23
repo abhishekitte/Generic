@@ -1,0 +1,14 @@
+C:\Users\pihu\source\repos\GenericDemo.cs\GenericDemo.cs\bin\Debug\netcoreapp3.1\GenericDemo.cs.exe
+C:\Users\pihu\source\repos\GenericDemo.cs\GenericDemo.cs\bin\Debug\netcoreapp3.1\GenericDemo.cs.deps.json
+C:\Users\pihu\source\repos\GenericDemo.cs\GenericDemo.cs\bin\Debug\netcoreapp3.1\GenericDemo.cs.runtimeconfig.json
+C:\Users\pihu\source\repos\GenericDemo.cs\GenericDemo.cs\bin\Debug\netcoreapp3.1\GenericDemo.cs.runtimeconfig.dev.json
+C:\Users\pihu\source\repos\GenericDemo.cs\GenericDemo.cs\bin\Debug\netcoreapp3.1\GenericDemo.cs.dll
+C:\Users\pihu\source\repos\GenericDemo.cs\GenericDemo.cs\bin\Debug\netcoreapp3.1\GenericDemo.cs.pdb
+C:\Users\pihu\source\repos\GenericDemo.cs\GenericDemo.cs\obj\Debug\netcoreapp3.1\GenericDemo.cs.csproj.AssemblyReference.cache
+C:\Users\pihu\source\repos\GenericDemo.cs\GenericDemo.cs\obj\Debug\netcoreapp3.1\GenericDemo.cs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pihu\source\repos\GenericDemo.cs\GenericDemo.cs\obj\Debug\netcoreapp3.1\GenericDemo.cs.AssemblyInfoInputs.cache
+C:\Users\pihu\source\repos\GenericDemo.cs\GenericDemo.cs\obj\Debug\netcoreapp3.1\GenericDemo.cs.AssemblyInfo.cs
+C:\Users\pihu\source\repos\GenericDemo.cs\GenericDemo.cs\obj\Debug\netcoreapp3.1\GenericDemo.cs.csproj.CoreCompileInputs.cache
+C:\Users\pihu\source\repos\GenericDemo.cs\GenericDemo.cs\obj\Debug\netcoreapp3.1\GenericDemo.cs.dll
+C:\Users\pihu\source\repos\GenericDemo.cs\GenericDemo.cs\obj\Debug\netcoreapp3.1\GenericDemo.cs.pdb
+C:\Users\pihu\source\repos\GenericDemo.cs\GenericDemo.cs\obj\Debug\netcoreapp3.1\GenericDemo.cs.genruntimeconfig.cache
